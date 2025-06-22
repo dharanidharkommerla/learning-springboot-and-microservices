@@ -1,0 +1,23 @@
+# === Eclipse files ===
+.settings/
+.classpath
+.project
+
+# === Maven build directory ===
+target/
+
+# === OS-specific files ===
+.DS_Store
+Thumbs.db
+
+# === Editor settings ===
+.vscode/
+
+# === Logs and temp files ===
+*.log
+*.tmp
+*.bak
+*~
+
+# Eclipse workspace metadata
+.metadata/
