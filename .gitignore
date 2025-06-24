@@ -23,3 +23,9 @@ Thumbs.db
 .metadata/
 
 zipfiles
+
+# ignoring new folders
+learning-sbms-02-natraj
+learning-sbms-03-ashok
+learning-sbms-04-raghu
+learning-sbms-05-narsi
